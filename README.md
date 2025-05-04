@@ -1,5 +1,8 @@
 # SnapVid - AI-Powered Social Media Content Generation Tool
 
+**Hackathon Winner: KPIT Hackathon 2025**  
+SnapVid was awarded a prize of ₹7500 for its innovation and impact during the KPIT Hackathon. The project was recognized for its potential in revolutionizing the way content creators make social media videos.
+
 SnapVid is an innovative AI-powered social media content creation tool that allows users to generate personalized videos with synchronized voice, color effects, animations, and music integration. The system is designed for ease of use, enabling content creators to quickly make videos that stand out with minimal effort.
 
 ## Key Features
@@ -16,10 +19,6 @@ SnapVid is an innovative AI-powered social media content creation tool that allo
 - **Extended Video Length**: The current video length is limited to 5-10 seconds, but future updates will extend this to 1-2 minutes for more flexibility.
 - **Subtitles**: Adding subtitles to the videos for better accessibility and engagement.
 - **AI-Generated Tags and Bios**: The system will suggest relevant tags and a bio for the generated content, improving discoverability and reach.
-
-## Hackathon Achievement
-
-- **Won the KPIT Hackathon 2025**: SnapVid was awarded a prize of ₹7500 for its innovation and impact during the KPIT Hackathon. The project was recognized for its potential in revolutionizing the way content creators make social media videos.
 
 ## Tech Stack
 
