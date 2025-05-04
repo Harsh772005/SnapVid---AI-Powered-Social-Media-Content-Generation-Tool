@@ -25,30 +25,9 @@ SnapVid is an innovative AI-powered social media content creation tool that allo
 
 - **Video Generation**: Kling's video generation model API
 - **Music API**: Integrated music API for song selection and trimming
-- **Frontend**: React.js (for UI)
-- **Backend**: Node.js (for API integrations)
+- **Frontend**: Gradio (for UI)
+- **Backend**: Flask (for API integrations)
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/snapvid.git
-    ```
-
-2. Install the necessary dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3. Run the development server:
-
-    ```bash
-    npm start
-    ```
 
 ## How to Use
 
